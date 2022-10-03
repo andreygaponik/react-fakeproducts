@@ -1,3 +1,10 @@
+# Stack 
+- https://fakestoreapi.com
+- React
+- Typescript
+- Axios
+- Tailwind
+
 # Init
 
 npm install
